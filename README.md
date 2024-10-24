@@ -23,16 +23,14 @@
 >
 - Windows, Linux and Mac OS Support.
 >
-- Multiple Options - for Tab Size, Autohiding, Spacing, Tabs on Top/Right, OS compatibility [and More](https://github.com/soulhotel/FF-ULTIMA/wiki/Settings)
+- Multiple Options - for Tab Size, Autohiding Tabs/Sidebar, Compact spacing, Toggle styling of elements, OS compatibility [and More](https://github.com/soulhotel/FF-ULTIMA/wiki/Settings)
 >
-- The Mini Button Bar - pin/unpin up to 15 buttons, drag and drop functional. Works with the following buttons:
-
-![prevautohide](theme/pic/assets/prevmini-bar.png)
+- Feature List todo (Firefox 131)
 
 
 ## Installation
 
-###### 🚨 Do not skip the installation instructions! Firefox v120+ Required. 🚨
+###### 🚨 Do not skip the installation instructions! Firefox v131+ Required. 🚨
 
 <details>
 <summary>Need help finding your Profile Folder? (Click Me)</summary>
