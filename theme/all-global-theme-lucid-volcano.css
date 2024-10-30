@@ -17,13 +17,13 @@ Global styling - Icons
     
 :root, body, * {
   color-scheme: dark !important; /*--<--dont touch--*/
-  --uc-ultima-window: rgb(51, 46, 65);
+  --uc-ultima-window: rgb(24, 27, 40);
   --uc-dark-color: rgb(27, 25, 35);
   --uc-light-color: rgb(215, 218, 224);
   --uc-accent-i: rgb(198, 170, 232); /*purp*/
-  --uc-accent-ii: rgb(164, 185, 239); /*blue*/
+  --uc-accent-ii: rgb(255, 255, 255); /*blue*/
   --uc-accent-iii: rgb(215, 218, 224); /*light*/
-  --uc-accent-iv: rgba(30, 30, 40,0.6); /*dark*/
+  --uc-accent-iv: rgba(37, 34, 52, 1); /*dark*/
   --uc-accent-v: rgb(177, 227, 173); /*green*/
   --uc-accent-vi: rgb(227, 140, 143); /*red*/
   --uc-accent-vii: rgb(44, 55, 80); /*darker blue*/
@@ -32,10 +32,10 @@ Global styling - Icons
   --uc-background-solid: rgba(28, 27, 34, 1);
   --uc-background-secondary: var(--uc-background-main);
   --uc-transparent: rgba(0,0,0,0);
-  --uc-selected: rgba(17, 18, 23,0.8);
-  --uc-active: rgba(17, 18, 23,1);
-  --uc-text: rgb(198, 170, 232);
-  --uc-panel-border: rgba(27, 25, 35, 1);
+  --uc-selected: rgba(242, 13, 99, 1);
+  --uc-active: rgba(242, 13, 99, 1);
+  --uc-text: rgb(255, 255, 255);
+  --uc-panel-border: rgba(242, 13, 99, 1);
   --uc-panel-border-ii: rgba(70, 70, 80, 0.2);
   --uc-context-menu: rgba(28, 27, 34,1);
   --uc-tabs-background: var(--uc-background-main);
